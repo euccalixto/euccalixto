@@ -16,7 +16,7 @@
 
 ## ⚡ Status
 
-<div style="display:flex;">
+<div style="display:inline_block;">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euccalixto&show_icons=true&theme=radical)
   
