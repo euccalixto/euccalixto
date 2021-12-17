@@ -20,7 +20,7 @@
 ## 🔧 Techs
 
 
-<ul style="display: flex;">
+<ul style="display: inline_block;">
   <li>HTML</li>  
   <li>CSS</li>  
   <li>Javascript</li>  
