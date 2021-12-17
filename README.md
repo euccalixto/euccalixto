@@ -20,7 +20,7 @@
 ## 🔧 Techs
 
 
-<ul style="display: inline;">
+<ul>
   <li>HTML</li>  
   <li>CSS</li>  
   <li>Javascript</li>  
