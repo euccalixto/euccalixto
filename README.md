@@ -19,9 +19,12 @@
 
 ## 🔧 Techs
 
-- html
-- css
-- javascript
+
+<ul style="display: flex;">
+  <li>HTML</li>  
+  <li>CSS</li>  
+  <li>Javascript</li>  
+</ul>
 
 
 
