@@ -24,6 +24,7 @@
   <li>HTML</li>  
   <li>CSS</li>  
   <li>Javascript</li>  
+  <li>PHP</li>  
 </ul>
 
 
