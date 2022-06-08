@@ -23,7 +23,8 @@
   <li>HTML</li>  
   <li>CSS</li>  
   <li>Javascript</li>  
-  <li>PHP</li>  
+  <li>PHP</li>
+  <li>SQL</li>  
   <li>AJAX</li>  
 </ul>
 
