@@ -1,4 +1,6 @@
 # I am ${Carlos Calixto} 👋
+discord: carloseduardo7710
+email: ccalixto.programmer@gmail.com
 
 <div>
 <a href="https://www.youtube.com/channel/UCeI0kK4RttFliqWcF7aFniQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -18,10 +20,8 @@
 
 ## 🔧 Techs
 
-
 <ul>
-  <li>HTML, CSS and JS</li> 
-  <li>PHP and SQL</li>
+  <li>HTML, CSS, JS, PHP and SQL</li> 
   <li>A Few of AJAX, BOOTSTRAP, REACT, NODE, MONGODB and NEXT</li>
 </ul>
 
