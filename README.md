@@ -21,4 +21,4 @@ email: ccalixto.programmer@gmail.com
 
 <hr/>
 
-**Formação - Tecnico em Desenvolvimento de Sistemas<br/>**
+**Formação • Tecnico em Desenvolvimento de Sistemas<br/>**
