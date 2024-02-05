@@ -19,4 +19,4 @@ email: ccalixto.programmer@gmail.com
   <li>A Few of AJAX, BOOTSTRAP, REACT, NODE, MONGODB and NEXT</li>
 </ul>
 
-Formação - Tecnico em Desenvolvimento de Sistemas<br/>
+**Formação - Tecnico em Desenvolvimento de Sistemas<br/>**
