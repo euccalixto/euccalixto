@@ -1,4 +1,4 @@
-# I am ${Carlos Calixto} 👋
+# Carlos Calixto 👋
 discord: carloseduardo7710 <br/>
 email: ccalixto.programmer@gmail.com
 
