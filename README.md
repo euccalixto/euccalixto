@@ -1,6 +1,6 @@
 # Carlos Calixto 👋
 discord: carloseduardo7710 <br/>
-email: ccalixto.programmer@gmail.com
+email: ccalixto.programmer@gmail.com <br/>
 formação: Tec. Desenvolvimento de Sistemas
 
 ## ⚡ Status
