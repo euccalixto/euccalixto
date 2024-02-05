@@ -20,12 +20,9 @@
 
 
 <ul>
-  <li>HTML</li>  
-  <li>CSS</li>  
-  <li>Javascript</li>  
-  <li>PHP</li>
-  <li>SQL</li>  
-  <li>AJAX</li>  
+  <li>HTML, CSS and JS</li> 
+  <li>PHP and SQL</li>
+  <li>A Few of AJAX, BOOTSTRAP, REACT, NODE, MONGODB and NEXT</li>
 </ul>
 
 
